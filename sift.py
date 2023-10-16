@@ -106,7 +106,7 @@ print(len(kp1))
 print(len(kp2))
 print(len(matches))
 print("Consistence Match", len(consistent_matches))
-#print("Consistence Match", consistent_matches)
+print("Consistence Match", consistent_matches)
 print((len(kp2)/len(kp1))*100)
 
 ###clockwise 90 rotated
